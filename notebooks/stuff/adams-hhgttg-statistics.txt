@@ -1,0 +1,4 @@
+Number of words: 58383
+Number of unique words: 6627
+Type:token ratio: 0.11350906942089307
+10 most frequent words: [('.', 2942), (',', 2675), ('the', 2223), ("''", 1938), ('``', 1777), ('of', 1253), ('to', 1174), ('a', 1120), ('and', 1107), ('it', 711)]

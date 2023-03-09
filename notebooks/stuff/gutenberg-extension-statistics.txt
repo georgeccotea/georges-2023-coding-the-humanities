@@ -1,0 +1,30 @@
+File: doyle-sherlock.txt
+Number of words: 125657
+Number of unique words: 8943
+Type:token ratio: 0.07116993084348663
+10 most frequent words: [(',', 7634), ('.', 5739), ('the', 5253), ('I', 3033), ('and', 2802), ('``', 2714), ('to', 2655), ('of', 2617), ('a', 2538), ("''", 2379)]
+
+File: stoker-dracula.txt
+Number of words: 189629
+Number of unique words: 10633
+Type:token ratio: 0.05607264711621113
+10 most frequent words: [(',', 11231), ('the', 7297), ('.', 7198), ('and', 5727), ('I', 4836), ('to', 4420), ('of', 3584), ('a', 2857), ('that', 2420), ('in', 2400)]
+
+File: shelley-frankestein.txt
+Number of words: 85456
+Number of unique words: 7512
+Type:token ratio: 0.08790488672533234
+10 most frequent words: [(',', 4944), ('the', 3908), ('and', 2936), ('.', 2851), ('I', 2848), ('of', 2638), ('to', 2080), ('my', 1634), ('a', 1345), ('in', 1080)]
+
+File: austen-pride.txt
+Number of words: 143234
+Number of unique words: 7471
+Type:token ratio: 0.052159403493583924
+10 most frequent words: [(',', 9132), ('to', 4086), ('.', 4071), ('the', 4058), ('of', 3595), ('and', 3424), ('her', 2106), ('I', 2065), ('a', 1898), ('was', 1837)]
+
+File: joyce-dubliners.txt
+Number of words: 81120
+Number of unique words: 8211
+Type:token ratio: 0.10122041420118343
+10 most frequent words: [('the', 3621), ('.', 3535), (',', 3478), ('and', 2134), ('of', 1829), ('to', 1728), ('a', 1484), ('“', 1325), ('”', 1320), ('’', 1308)]
+
